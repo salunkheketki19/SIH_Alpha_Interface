@@ -1,4 +1,3 @@
-The user can scan the QR code from the E-Catalogue.
 After scanning QR code 3D AR bike model will appear to the user. 
 Features are as follows:
 Change Color : The application will provide users to explore different colors available for the bike model.
